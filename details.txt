@@ -7480,3 +7480,39 @@
 10/10/2014 | 14:51:14 | WeMo Insight74 | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65616 | _x:500 | currentmw:4565 | todaymw:3495407 | totalmw:3724949.000000 | powerthreshold:8000
  | PF: 0.047 | iRMS: 4.570 | vRMS: 121.184 | Frequency: 59.047
  
+10/10/2014 | 14:51:22 | WeMo Insight89 | State:8 | lastchange: 1412964732 | onfor:13 | ontoday:24 | ontotal:37 | timeperiod:65713 | _x:0 | currentmw:4570 | todaymw:3365411 | totalmw:3365411.000000 | powerthreshold:8000
+ | PF: 0.041 | iRMS: 4.550 | vRMS: 121.104 | Frequency: 59.056
+ 
+10/10/2014 | 14:51:25 | WeMo Insight74 | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65634 | _x:500 | currentmw:4540 | todaymw:3495407 | totalmw:3724949.000000 | powerthreshold:8000
+ | PF: 0.045 | iRMS: 4.550 | vRMS: 120.933 | Frequency: 59.051
+ 
+10/10/2014 | 14:51:40 | WeMo Insight89 | State:8 | lastchange: 1412964732 | onfor:13 | ontoday:24 | ontotal:37 | timeperiod:65729 | _x:0 | currentmw:4595 | todaymw:3369992 | totalmw:3369992.000000 | powerthreshold:8000
+ | PF: 0.040 | iRMS: 4.590 | vRMS: 121.118 | Frequency: 59.059
+ 
+10/10/2014 | 14:51:40 | WeMo Insight74 | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65635 | _x:500 | currentmw:4565 | todaymw:3495407 | totalmw:3724949.000000 | powerthreshold:8000
+ | PF: 0.046 | iRMS: 4.570 | vRMS: 121.167 | Frequency: 59.043
+ 
+10/10/2014 | 14:51:40 | WeMo Insight89 | State:8 | lastchange: 1412964732 | onfor:13 | ontoday:24 | ontotal:37 | timeperiod:65729 | _x:0 | currentmw:4595 | todaymw:3369992 | totalmw:3369992.000000 | powerthreshold:8000
+ | PF: 0.041 | iRMS: 4.590 | vRMS: 121.281 | Frequency: 59.059
+ 
+10/10/2014 | 14:51:40 | WeMo Insight74 | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65642 | _x:500 | currentmw:4560 | todaymw:3499966 | totalmw:3729508.000000 | powerthreshold:8000
+ | PF: 0.043 | iRMS: 4.565 | vRMS: 121.224 | Frequency: 59.054
+ 
+10/10/2014 | 14:51:48 | WeMo Insight89 | State:8 | lastchange: 1412964732 | onfor:13 | ontoday:24 | ontotal:37 | timeperiod:65737 | _x:0 | currentmw:4580 | todaymw:3369992 | totalmw:3369992.000000 | powerthreshold:8000
+ | PF: 0.041 | iRMS: 4.575 | vRMS: 121.254 | Frequency: 59.052
+ 
+10/10/2014 | 14:51:49 | WeMo Insight74 | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65651 | _x:500 | currentmw:4515 | todaymw:3499966 | totalmw:3729508.000000 | powerthreshold:8000
+ | PF: 0.043 | iRMS: 4.510 | vRMS: 121.060 | Frequency: 59.053
+ 
+10/10/2014 | 14:51:56 | WeMo Insight89 | State:8 | lastchange: 1412964732 | onfor:13 | ontoday:24 | ontotal:37 | timeperiod:65746 | _x:0 | currentmw:4590 | todaymw:3369992 | totalmw:3369992.000000 | powerthreshold:8000
+ | PF: 0.041 | iRMS: 4.595 | vRMS: 121.256 | Frequency: 59.055
+ 
+10/10/2014 | 14:51:58 | WeMo Insight74 | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65652 | _x:500 | currentmw:4525 | todaymw:3499966 | totalmw:3729508.000000 | powerthreshold:8000
+ | PF: 0.044 | iRMS: 4.530 | vRMS: 121.293 | Frequency: 59.047
+ 
+10/10/2014 | 14:51:58 | WeMo Insight89 | State:8 | lastchange: 1412964732 | onfor:13 | ontoday:24 | ontotal:37 | timeperiod:65746 | _x:0 | currentmw:4590 | todaymw:3369992 | totalmw:3369992.000000 | powerthreshold:8000
+ | PF: 0.039 | iRMS: 4.595 | vRMS: 121.195 | Frequency: 59.063
+ 
+10/10/2014 | 14:51:58 |  | State:8 | lastchange: 1412964782 | onfor:14 | ontoday:45 | ontotal:90 | timeperiod:65779 | _x:500 | currentmw:4520 | todaymw:3509079 | totalmw:3738621.000000 | powerthreshold:8000
+ | PF: 0.045 | iRMS: 4.515 | vRMS: 121.130 | Frequency: 59.054
+ 

@@ -2492,3 +2492,16 @@
 10/10/2014 | 14:51:14 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4565
 10/10/2014 | 14:51:14 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4575
 10/10/2014 | 14:51:14 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4565
+10/10/2014 | 14:51:22 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4570
+10/10/2014 | 14:51:25 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4540
+10/10/2014 | 14:51:40 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4595
+10/10/2014 | 14:51:40 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4565
+10/10/2014 | 14:51:40 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4595
+10/10/2014 | 14:51:40 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4560
+10/10/2014 | 14:51:48 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4580
+10/10/2014 | 14:51:49 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4515
+10/10/2014 | 14:51:56 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4590
+10/10/2014 | 14:51:58 | WeMo Insight74 | IP address:128.237.230.120 | State:8 | currentmw:4525
+10/10/2014 | 14:51:58 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4590
+10/10/2014 | 14:51:58 |  | IP address:128.237.230.120 | State:8 | currentmw:4520
+10/10/2014 | 14:54:05 | WeMo Insight89 | IP address:128.237.125.45 | State:8 | currentmw:4585
