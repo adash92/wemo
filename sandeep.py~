@@ -1,0 +1,32 @@
+import threading
+import thread 
+import time
+import subprocess
+from subprocess import call
+#script for extraction of data from wemo
+f1 = None
+f2 = None
+lis = None
+def wemonew(threadname,ip):
+	currenttime= time.strftime("%H:%M:%S")
+	currentdate= time.strftime("%d/%m/%Y")
+        #time.sleep(0)
+	#function for calling friendlyname of the wemo		
+	f1 = subprocess.check_output("wemocopy " + ip + " GETFRIENDLYNAME", shell=True)
+	f1 = f1.strip()	
+	#function for calling all parameters of wemo
+	f = subprocess.check_output("wemocopy " + ip + " GETALL ", shell=True)
+	lis = f.split("|")
+	#function for calling all manufacturing details of wemo
+	f2 = subprocess.check_output("wemocopy " + ip + " GETMANU ", shell=True)
+	lis2 = f2.split(";")
+	#printing the important parameters 
+	print threadname+time.ctime(time.time())+" | "+ f1 +" | "+" IP address:", ip + " | State:",lis[0]+" | currentmw:",lis[7]
+		
+#error handling part
+try:
+	thread.start_new_thread(wemonew("","128.237.125.45"))
+	thread.start_new_thread(wemonew("","128.237.230.120"))
+except:
+	print "Error:unable to start"
+
